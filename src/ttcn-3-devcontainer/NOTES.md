@@ -23,8 +23,8 @@ This Dev Container provides a pre-configured environment for working with TTCN-3
 - [Docker](https://www.docker.com/) installed on your system
 
 ### Usage
-To launch locally, ensure the prerequisites are met
 
+To launch locally, ensure the prerequisites are met
 
 1. Clone this repository:
    ```sh
@@ -37,6 +37,8 @@ To launch locally, ensure the prerequisites are met
 3. When prompted, click **"Reopen in Container"** or manually open the Command Palette (`Ctrl+Shift+P`) and select **"Dev Containers: Reopen in Container"**.
 
 4. Start working with TTCN-3!
+
+[![Open in Dev Container](https://raw.githubusercontent.com/m-umair-khan-dev/ttcn-3-devcontainer/refs/heads/main/.devcontainer/devcontainer-badge.svg.svg)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/m-umair-khan-dev/ttcn-3-devcontainer)
 
 ## Repository Structure
 

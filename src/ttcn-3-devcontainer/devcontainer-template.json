@@ -1,0 +1,11 @@
+{
+    "id": "ttcn-3-devcontainer",
+    "version": "1.0.0",
+    "name": "TTCN-3-Devcontainer",
+    "description": "A development container for TTCN-3 with Eclipse Titan, built on Alpine Linux.",
+    "documentationURL": "https://github.com/m-umair-khan-dev/devcontainers/blob/main/src/ttcn-3-devcontainer/NOTES.md",
+    "licenseURL": "https://github.com/m-umair-khan-dev/devcontainers/blob/main/LICENSE",
+    "platforms": [
+        "Any"
+    ]
+}
